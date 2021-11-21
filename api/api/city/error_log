@@ -1,0 +1,15 @@
+[02-Feb-2021 14:15:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method City::getSingleState() in /home/blellyvg/public_html/websites/businessbook.co.in/api/api/city/getCity   not in use .php:84
+Stack trace:
+#0 /home/blellyvg/public_html/websites/businessbook.co.in/api/api/city/getCity   not in use .php(38): getSingle()
+#1 {main}
+  thrown in /home/blellyvg/public_html/websites/businessbook.co.in/api/api/city/getCity   not in use .php on line 84
+[02-Feb-2021 14:15:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method City::getSingleState() in /home/blellyvg/public_html/websites/businessbook.co.in/api/api/city/getCity.php:84
+Stack trace:
+#0 /home/blellyvg/public_html/websites/businessbook.co.in/api/api/city/getCity.php(38): getSingle()
+#1 {main}
+  thrown in /home/blellyvg/public_html/websites/businessbook.co.in/api/api/city/getCity.php on line 84
+[02-Feb-2021 14:15:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method City::getSingleState() in /home/blellyvg/public_html/websites/businessbook.co.in/api/api/city/getCity.php:84
+Stack trace:
+#0 /home/blellyvg/public_html/websites/businessbook.co.in/api/api/city/getCity.php(38): getSingle()
+#1 {main}
+  thrown in /home/blellyvg/public_html/websites/businessbook.co.in/api/api/city/getCity.php on line 84

@@ -1,0 +1,14 @@
+[23-Feb-2021 10:55:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/blellyvg/public_html/websites/businessbook.co.in/api/class/clientUsers.php:33
+Stack trace:
+#0 /home/blellyvg/public_html/websites/businessbook.co.in/api/api/clientUser/read.php(81): ClientUsers->getClientUsers()
+#1 /home/blellyvg/public_html/websites/businessbook.co.in/api/api/clientUser/read.php(38): get()
+#2 {main}
+  thrown in /home/blellyvg/public_html/websites/businessbook.co.in/api/class/clientUsers.php on line 33
+[12-May-2021 21:16:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/blellyvg/public_html/websites/businessbook.co.in/api/class/clientUsers.php on line 127
+[12-May-2021 21:16:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/blellyvg/public_html/websites/businessbook.co.in/api/class/clientUsers.php on line 128
+[12-May-2021 21:16:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/blellyvg/public_html/websites/businessbook.co.in/api/class/clientUsers.php on line 129
+[12-May-2021 21:16:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/blellyvg/public_html/websites/businessbook.co.in/api/class/clientUsers.php on line 130
+[12-May-2021 21:16:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/blellyvg/public_html/websites/businessbook.co.in/api/class/clientUsers.php on line 131
+[12-May-2021 21:16:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/blellyvg/public_html/websites/businessbook.co.in/api/class/clientUsers.php on line 132
+[12-May-2021 21:16:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/blellyvg/public_html/websites/businessbook.co.in/api/class/clientUsers.php on line 133
+[12-May-2021 21:16:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/blellyvg/public_html/websites/businessbook.co.in/api/class/clientUsers.php on line 134

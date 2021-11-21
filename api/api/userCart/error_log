@@ -1,0 +1,10 @@
+[03-Apr-2021 12:32:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Cart::getSingleDepartment() in /home/blellyvg/public_html/websites/businessbook.co.in/api/api/userCart/update.php:61
+Stack trace:
+#0 /home/blellyvg/public_html/websites/businessbook.co.in/api/api/userCart/index.php(34): include_once()
+#1 {main}
+  thrown in /home/blellyvg/public_html/websites/businessbook.co.in/api/api/userCart/update.php on line 61
+[03-Apr-2021 12:33:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Cart::getSingleDepartment() in /home/blellyvg/public_html/websites/businessbook.co.in/api/api/userCart/update.php:61
+Stack trace:
+#0 /home/blellyvg/public_html/websites/businessbook.co.in/api/api/userCart/index.php(34): include_once()
+#1 {main}
+  thrown in /home/blellyvg/public_html/websites/businessbook.co.in/api/api/userCart/update.php on line 61

@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3afbfef5.chunk.css",
+    "main.js": "/static/js/main.3d514d7d.chunk.js",
+    "main.js.map": "/static/js/main.3d514d7d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.62a9511b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.62a9511b.js.map",
+    "static/css/2.ac21d2c3.chunk.css": "/static/css/2.ac21d2c3.chunk.css",
+    "static/js/2.a0639f18.chunk.js": "/static/js/2.a0639f18.chunk.js",
+    "static/js/2.a0639f18.chunk.js.map": "/static/js/2.a0639f18.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ac21d2c3.chunk.css.map": "/static/css/2.ac21d2c3.chunk.css.map",
+    "static/css/main.3afbfef5.chunk.css.map": "/static/css/main.3afbfef5.chunk.css.map",
+    "static/js/2.a0639f18.chunk.js.LICENSE.txt": "/static/js/2.a0639f18.chunk.js.LICENSE.txt",
+    "static/media/argon-react-white.png": "/static/media/argon-react-white.e4dd3b41.png",
+    "static/media/argon-react.png": "/static/media/argon-react.128d71d3.png",
+    "static/media/all.min.css": "/static/media/fa-solid-900.f4f93856.woff",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/nucleo.css": "/static/media/nucleo-icons.d6a66724.ttf",
+    "static/media/profile-cover.jpg": "/static/media/profile-cover.97899245.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62a9511b.js",
+    "static/css/2.ac21d2c3.chunk.css",
+    "static/js/2.a0639f18.chunk.js",
+    "static/css/main.3afbfef5.chunk.css",
+    "static/js/main.3d514d7d.chunk.js"
+  ]
+}

@@ -1,0 +1,8 @@
+[04-Feb-2021 16:17:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/blellyvg/public_html/websites/businessbook.co.in/api/class/state.php:30
+Stack trace:
+#0 /home/blellyvg/public_html/websites/businessbook.co.in/api/api/state/getAllState.php(81): State->getState()
+#1 /home/blellyvg/public_html/websites/businessbook.co.in/api/api/state/getAllState.php(38): get()
+#2 {main}
+  thrown in /home/blellyvg/public_html/websites/businessbook.co.in/api/class/state.php on line 30
+[15-Feb-2021 15:33:04 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/blellyvg/public_html/websites/businessbook.co.in/api/class/state.php on line 80
+[15-Feb-2021 15:33:39 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/blellyvg/public_html/websites/businessbook.co.in/api/class/state.php on line 80
